@@ -11,7 +11,7 @@
 
 直接点击下方链接即可开始游戏（推荐使用 Chrome / Edge / Safari）：
 
-👉 **[点击开始游戏](https://<你的用户名>.github.io/<你的仓库名>/)**
+👉 **[点击开始游戏](https://wwwk333.github.io/Little-Ghost/)**
 
 > 💡 **提示**：
 
